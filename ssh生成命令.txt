@@ -1,0 +1,21 @@
+# 设置用户名
+$
+
+git config --global al user.name "yayan.li"
+
+
+
+# 设置邮箱
+
+
+ git config --global al user.email "yan.li@tadu.com"
+
+
+
+
+ windowns 生成rsa
+
+
+ ssh-keygen -t rsa -b 4096 -C "your_ur_email@example.com"
+
+
